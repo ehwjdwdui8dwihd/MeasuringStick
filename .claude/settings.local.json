@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(dotnet publish:*)",
+      "Bash(ren:*)",
+      "Bash(cmd /c \"cd /d c:\\\\Users\\\\andre\\\\Desktop && ren DigitalMeasuringStick MeasuringStick\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(dir:*)",
+      "Bash(gh release create v1.0.0 ./release/MeasuringStick.exe --title \"Measuring Stick v1.0.0\" --notes \"$\\(cat <<''EOF''\n## Measuring Stick v1.0.0\n\nA lightweight Windows system tray application for measuring pixel distances on screen.\n\n### Features\n- Click and drag anywhere on screen to measure distances\n- Displays total distance, width, height, and coordinates\n- Configurable overlay opacity \\(10% - 100%\\)\n- Auto-start with Windows option\n- Multi-monitor support\n\n### Installation\n1. Download `MeasuringStick.exe`\n2. Run it - the app will appear in your system tray\n3. Left-click the tray icon to start measuring\nEOF\n\\)\")",
+      "Bash(where gh:*)",
+      "Bash(winget install:*)",
+      "Bash(\"C:\\\\Program Files \\(x86\\)\\\\Inno Setup 6\\\\ISCC.exe\" installer.iss)",
+      "Bash(cmd /c \"\"\"C:\\\\Program Files \\(x86\\)\\\\Inno Setup 6\\\\ISCC.exe\"\" c:\\\\Users\\\\andre\\\\Desktop\\\\MeasuringStick\\\\installer.iss\")",
+      "Bash(cmd /c \"dir \"\"C:\\\\Program Files*\\\\Inno*\"\" /s /b 2>nul || dir \"\"C:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Programs\\\\Inno*\"\" /s /b 2>nul || where iscc 2>nul\")",
+      "Bash(cmd /c \"reg query \"\"HKLM\\\\SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Uninstall\"\" /s /f \"\"Inno\"\" 2>nul\")",
+      "Bash(cmd /c \"dir \"\"C:\\\\Program Files\\\\Inno Setup 6\"\" 2>nul\")",
+      "Bash(cmd /c:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(git checkout:*)",
+      "Bash(winget uninstall:*)",
+      "Bash(\"C:/Users/andre/AppData/Local/Programs/Inno Setup 6/ISCC.exe\" \"c:/Users/andre/Desktop/MeasuringStick/installer.iss\")",
+      "Bash(git reset:*)",
+      "Bash(git update-ref:*)"
+    ]
+  }
+}
